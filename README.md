@@ -1,8 +1,13 @@
 # Lektion 12 januari
 
 ## Övningar
+Träna på React hooks med sten, sax och påse samt shopping cart.
 
+## Videor
+Allt: https://scrimba.com/learn/learnreact
 
+React hooks: https://scrimba.com/learn/learnreact/hooks-intro-crmJRqfm
+useState: https://scrimba.com/learn/learnreact/usestate-part-1-creating-state-cRqP9mhg
 
 ## Artiklar
 
