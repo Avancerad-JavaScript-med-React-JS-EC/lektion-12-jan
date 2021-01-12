@@ -15,6 +15,7 @@ React state och life cycle: https://reactjs.org/docs/state-and-lifecycle.html
 Förklaring av life cycle: https://medium.com/@rajat_m/understand-life-cycle-methods-in-react-js-71a5464867cf
 
 **React hooks**
+
 React dokumentation: https://reactjs.org/docs/hooks-intro.html
 
 useState: https://reactjs.org/docs/hooks-state.html
