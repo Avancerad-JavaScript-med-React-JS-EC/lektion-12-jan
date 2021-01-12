@@ -39,6 +39,9 @@ Date: https://www.w3schools.com/jsref/jsref_obj_date.asp
 
 ## Inspelningar
 
+Förmiddag: https://web.microsoftstream.com/video/9a46383d-943b-4ab3-a319-37d14788c4ca
+
+Eftermiddag: https://web.microsoftstream.com/video/427e5fbf-a84e-4a69-b9c7-7856264e694d
 
 ## Tidigare lektioner
 
